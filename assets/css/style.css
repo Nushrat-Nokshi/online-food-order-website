@@ -1,0 +1,111 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+}
+nav p{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+
+h1{
+    font-size: 50px;
+}
+
+
+.food img{
+    width: 55%;
+    padding-left:35%;
+    margin-top: 06%;
+    margin-right: 09%; 
+}
+.food{
+    width: 50%;
+    padding-left: 2%;
+}
+a{
+    text-decoration: none;
+}
+.button{
+    text-decoration: none;
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 5px;
+    background-image: linear-gradient( rgb(216, 4, 188) ,rgb(255, 255, 255) );
+    color: rgb(0, 0, 0);
+    border: solid black 1px;
+    margin-bottom: 500px;
+}
+.villege{
+    display: flex;
+    margin-bottom: 150px;
+}
+.green{
+    color: green;
+}
+.pink{
+color: purple;
+}
+
+.me{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.background{
+    background-image: url(/assets/images/Frame\ 58.jpg    );
+}
+
+.recipies{
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.half{
+    border-radius: 20px;
+    width: 30%;
+    box-shadow: 10px 8px 20px rgb(161, 161, 161);
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    text-align: center;
+
+}
+
+h1{
+    color: rgb(170, 211, 250);
+    padding-left: 20px;
+    text-shadow: 2px 2px rgb(9, 21, 36);
+
+}
+
+.half img{
+    width: 85%;
+    padding: 15px;
+    border-radius: 40px;
+}
+.cook{
+
+    text-align: center;
+}
+.LastSec{
+
+    display: flex;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    width: 80%;
+    box-shadow: 10px 8px 20px rgb(82, 82, 82);
+    margin-left: 140px;
+    margin-right: 150px;
+}
+
+.likes{
+    margin: 50px;
+    margin-left: 135px;
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: rgb(106, 21, 117);
+    color: cornsilk;
+}
